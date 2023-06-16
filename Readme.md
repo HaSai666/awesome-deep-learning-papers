@@ -27,16 +27,21 @@
 
 ## NLP方向
 
-| Tag    | 年份   | 论文标题                                                                                       |
-|--------|------|--------------------------------------------------------------------------------------------|
-| 问答系统   |  | JEC-QA: A Legal-Domain Question Answering Dataset                                          |
-| 问答系统   |      | Dense passage retrieval for open-domain question answering                                 |
-| 问答系统   |      | A building regulation question answering system: A deep learning methodology               |
-| Prompt |      | Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference |
-| Prompt |      | Making Pre-trained Language Models Better Few-shot Learners                                |
-| Prompt |      | Prefix-Tuning: Optimizing Continuous Prompts for Generation                                |
-| 信息抽取   |      |  Unified Structure Generation for Universal Information Extraction                                                                                          |
-| 信息抽取   |      |                   Block Recurrent Transformer                                                                         |
+| Tag     | 年份   | 论文标题                                                                                                        |
+|---------|------|-------------------------------------------------------------------------------------------------------------|
+| 问答系统    |      | JEC-QA: A Legal-Domain Question Answering Dataset                                                           |
+| 问答系统    |      | Dense passage retrieval for open-domain question answering                                                  |
+| 问答系统    |      | A building regulation question answering system: A deep learning methodology                                |
+| Prompt  |      | Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference                  |
+| Prompt  |      | Making Pre-trained Language Models Better Few-shot Learners                                                 |
+| Prompt  |      | Prefix-Tuning: Optimizing Continuous Prompts for Generation                                                 |
+| 信息抽取    |      | Unified Structure Generation for Universal Information Extraction                                           |
+| 信息抽取    |      | Block Recurrent Transformer                                                                                 |
+| 预训练     | 2019 | Parameter-efficient transfer learning for NLP soft-prompt tuning                                            |
+| 预训练     |      | Simple parameter-efficient fine-tuning for transformer-based masked language-models.soft-prompt tuning      |
+| 大模型方法应用 |      | JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding                       |
+| 大模型方法应用 | 2022 | DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation |
+| 大模型方法应用 | 2021 | How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence                               |
 
 
 ## 
