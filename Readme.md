@@ -18,12 +18,15 @@
 |  图像取证    |      |           ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images                                                                                                                                         |
 |   图像恢复图像去噪       | 2022 |    A Comprehensive Comparison of Multi-Dimensional Image Denoising Methods                                                                                                                                                                                                                                                                     |
 |   图像恢复图像去噪       |      |        Multichannel Image Completion With Mixture Noise: Adaptive Sparse Low-Rank Tensor Subspace Meets Nonlocal Self-Similarity                                                                                                                                                                                                                                                                 |
+| 图像篡改检测cv、检测           | 2022 |     MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection                                                                                                                                                                                                                                                                                                                                                                                             |
+| 图像篡改检测cv、检测                 | 2022 |    ObjectFormer for Image Manipulation Detection and Localization                                                                                                                                                                                                                                                                                                                                                                                              |
+|  图像篡改检测cv、检测                | 2021 | CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 在这里你可以找到论文的文本内容，但如果你想获得这些论文的详细讲解和解读，不妨关注我们的小沃公众号。在那里，你可以免费观看所有论文的视频讲解，不仅让你更好地理解论文，还能让你的学习过程更轻松，省去自我翻译和解读的时间。
 
 想要学习更多，就来关注小沃吧！我们在小沃上提供了各类学术讲解视频，帮你深入理解这些研究。
 
-![二维码](微信公众号二维码链接)
+![二维码](./pic/qrcode.png)
 
 只需扫描上方二维码，就可以立即享受小沃的优质学习资源了！无论你是研究者，学者，还是对学术有着浓厚兴趣的人，我们都欢迎你的加入。
 
